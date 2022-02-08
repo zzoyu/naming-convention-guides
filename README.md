@@ -1,3 +1,6 @@
+# 필요한 부분만 번역하는 Repo입니다.
+
+
 # Welcome - The Naming Convention Project
 
 The Naming Convention Project is an effort to identify, collect and maintain a set of guidelines for best naming practices.
