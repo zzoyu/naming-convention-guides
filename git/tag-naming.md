@@ -1,4 +1,4 @@
-# Git Naming Convention > Tag Naming
+# Git 네이밍 컨벤션 > Tag Naming
 
 May:
 - Use [Semantic Versioning](https://semver.org/)

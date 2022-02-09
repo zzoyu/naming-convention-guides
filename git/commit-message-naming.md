@@ -1,4 +1,4 @@
-# Git Naming Convention > Commit Message Naming
+# Git 네이밍 컨벤션 > 커밋 메시지 작명
 
 Consist of two parts:
 - Subject: Short informative summary of the commit

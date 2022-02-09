@@ -1,4 +1,4 @@
-# VueJS Naming Convention
+# VueJS 네이밍 컨벤션
 List of covered sections:
 * [컴포넌트 작명](../vuejs/components-naming.md)
 * [영리한 vs 멍청한 컴포넌트 작명](../vuejs/smart-dumb-naming.md)

@@ -1,4 +1,4 @@
-# VueJS Naming Convention > Constants Naming
+# VueJS 네이밍 컨벤션 > Constants Naming
 
 ## SCREAMING_SNAKE_CASE
 - 모든 문자가 대문자여야 합니다. e.g. MAX_NUMBER_PEOPLE, PRICE

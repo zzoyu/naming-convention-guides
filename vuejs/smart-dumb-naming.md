@@ -1,4 +1,4 @@
-# VueJS Naming Convention > Smart vs Dumb Components Naming
+# VueJS 네이밍 컨벤션 > 영리한 vs 멍청한 컴포넌트 작명
 
 Smart components sometimes called contrainer are the one that handles state changes. Dumb components, also called presentational, handles the look and feel. Dumb components are comparable to the View and Smart component to the Controller in the MVC pattern.
 

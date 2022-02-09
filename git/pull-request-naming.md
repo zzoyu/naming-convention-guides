@@ -1,4 +1,4 @@
-# Git Naming Convention > Pull Request Naming
+# Git 네이밍 컨벤션 > Pull Request Naming
 
 Consists of two parts:
 - Title: Short informative summary of the pull request
